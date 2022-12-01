@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252471490711",
+    "project_id": "lf4-game",
+    "storage_bucket": "lf4-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252471490711:android:c07fe7b8c57679159ad1d2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.LF4Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252471490711-slgc5cnj488g5fpdok13j7tqhus5kbh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTwqtJkEd9WEert3GNEuV_w1K9zmufSM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252471490711-slgc5cnj488g5fpdok13j7tqhus5kbh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
